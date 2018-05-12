@@ -1,0 +1,29 @@
+_repo: The-Art-of-LecturingRevised-Edition_30565
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lewis, Arthur M. (Arthur Morrow)
+    alias: Lewis, Arthur Morrow
+    birthdate: 1873
+    deathdate: 1922
+    gutenberg_agent_id: '34687'
+    url: http://www.gutenberg.org/2009/agents/34687
+description: ''
+gutenberg_issued: '2009-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Lectures and lecturing'
+title: 'The Art of Lecturing
+
+  Revised Edition'
+url: http://www.gutenberg.org/ebooks/30565
