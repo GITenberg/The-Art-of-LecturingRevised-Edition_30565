@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PN'
 - !lcsh 'Lectures and lecturing'
+- GITenberg
 title: 'The Art of Lecturing
 
   Revised Edition'
